@@ -1,0 +1,7 @@
+plant_chosen = input(("Chose a plant:")
+if plant_chosen == "Spathiphyllum":
+  print("Yes! Spathiphyllum is the best plant ever!")
+elif plant_chosen = "spathiphyllum":
+  print("No! I want a big Spathiphyllum!")
+else:
+  print("Spathiphyllum!, not", plant_chosen, end = ".")
